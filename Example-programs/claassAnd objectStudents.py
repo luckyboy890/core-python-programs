@@ -12,6 +12,7 @@ class Staff():
 Anusha=Staff()
 print(Anusha.getFullName())
 print("----------------------")
+print("-------------------------")
 
 
  
